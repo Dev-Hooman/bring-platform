@@ -1,3 +1,4 @@
+# B-Ring Platform - React Native App 
 
 ![Bring Logo](https://github.com/Dev-Hooman/bring-platform/assets/80707427/4781b8d5-3ec7-4fc9-b240-e430beca6895)
 
@@ -5,13 +6,9 @@ B-Ring Platform is a React Native application that brings people together, allow
 
 ## Application Preview
 
-<p align="center">
-<img width="3000" alt="App Show" src="https://github.com/Dev-Hooman/bring-platform/assets/80707427/5f01fec2-9305-4cea-a86e-31beaab7a278"/>
-</p>
+![Bring Platform Mock 1](https://github.com/Dev-Hooman/bring-platform/assets/80707427/f61ebfc8-3596-4703-acc7-54e5d014021f)
 
-<p align="center">
-<img width="3000" alt="App Show" src="https://github.com/Dev-Hooman/bring-platform/assets/80707427/6b8539a2-1f48-4066-8ad8-be3b9cec449f"/>
-</p>
+![Bring Platform Mock 2](https://github.com/Dev-Hooman/bring-platform/assets/80707427/d359ed64-ed94-41c8-8097-58245ee6dbab)
 
 
 ## Features
